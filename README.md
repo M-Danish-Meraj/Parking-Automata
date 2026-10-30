@@ -42,4 +42,4 @@ npx serve .
 
 ## Team
 
-Hamna Ali Khan (CT-24157) · Amna Mohsin (CT-24169) · Muhammad Danish Meraj (CT-24269) · Muhammad Saraib (CT-24255)
+Hamna Ali Khan (CT-24157) · Amna Mohsin (CT-24169) · Muhammad Danish Meraj (CT-24268) · Muhammad Saraib (CT-24255)
